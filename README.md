@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm R Vinitha</h1>
+<p align="center">
+  <img src="https://github.com/Vinitha-Ravi16.png" width="150" height="150">
+</p>
+
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Vinitha-Ravi16">R Vinitha</a></h1>
 <h3 align="center">💻 MCA Graduate | Java | Python | Web Development | Open Source Enthusiast</h3>
 
-- 🔭 I’m currently working on **an AI Logo Generator**
-- 🌱 I’m currently learning **advanced web development tools**
+- 🔭 I’m currently working on **an AI Logo Generator**  
+- 🌱 I’m currently learning **advanced web development tools**  
 - 💬 Ask me about:  
   - **Web Development** (HTML, CSS, JavaScript, React)  
   - **Programming** (Java, Python, C++)  
@@ -31,7 +35,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">  
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a>  
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>  
@@ -41,22 +44,21 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>  
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>  
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>  
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>  
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitha-mca&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinitha-Ravi16&theme=dark" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitha-mca&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinitha-Ravi16&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 💖 Support Me  
 If you like my work, consider **starring** ⭐ my repositories or **buying me a coffee!**  
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+<a href="https://www.buymeacoffee.com/VinithaRavi" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
 </a>
